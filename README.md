@@ -264,7 +264,7 @@ Push to GitHub:
 
 bash
 Copy code
-git remote add origin https://github.com/azurefarmer/your-repo-name.git
+git remote add origin https://github.com/azurefarmer/simpleAPI-to-should-return-the-current-time-when-accessed-via-a-GET-request.git
 git branch -M main
 git push -u origin main
 Check GitHub Actions:
